@@ -3,10 +3,10 @@
 
 <div style="text-align:center; background-color:#F5F5F5; padding:20px;">
     <img src="imagen_de_perfil.png" style="border-radius: 50%; height:150px; width:150px; object-fit: cover;">
-    <h1>Nombre Completo</h1>
+    <h1>Manuel Alejandro Solis Arrazola</h1>
     <h2>Título Profesional</h2>
     <p>
-        <i class="fa fa-envelope"></i> correo@electronico.com &nbsp; | &nbsp; <i class="fa fa-phone"></i> +1 (555) 555-5555 &nbsp; | &nbsp; <i class="fa fa-globe"></i> www.mi-sitio-web.com
+        <i class="fa fa-envelope"></i> ma.solisarrazola@ugto.mx &nbsp; | &nbsp; <i class="fa fa-phone"></i> +1 (555) 555-5555 &nbsp; | &nbsp; <i class="fa fa-globe"></i> www.mi-sitio-web.com
     </p>
     <hr>
     <p>Soy un(a) profesional con experiencia en:</p>
