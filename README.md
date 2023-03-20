@@ -2,7 +2,7 @@
 # PhD_AlejandroArrazola
 
 <div style="text-align:center; background-color:#F5F5F5; padding:20px;">
-    <img src="imagen_de_perfil.png" style="border-radius: 50%; height:150px; width:150px; object-fit: cover;">
+    <img src="source/imagen_de_perfil.png" style="border-radius: 50%; height:150px; width:150px; object-fit: cover;">
     <h1>Manuel Alejandro Solis Arrazola</h1>
     <h2>Título Profesional</h2>
     <p>
